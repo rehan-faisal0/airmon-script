@@ -7,7 +7,7 @@
 
 ## 📌 Table of Contents
 - [📋 Introduction](#introduction)
-- [Features](#features)
+- [✨ Features](#features)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Usage](#usage)
