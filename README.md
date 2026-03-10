@@ -6,7 +6,7 @@ Here’s a comprehensive `README.md` file for your GitHub repository. It include
 # 🔐 Aircrack-ng Automation Script
 **Automate WPA/WPA2 Handshake Capture and Cracking**
 
-[![Aircrack-ng Logo](https://www.aircrack-ng.org/w/images/thumb/8/8b/Aircrack-ng_logo.svg/1200px-Aircrack-ng_logo.svg.png)](https://www.aircrack-ng.org/resources/aircrack-ng-new-logo.jpg)
+![Aircrack-ng Logo](https://www.aircrack-ng.org/resources/aircrack-ng-new-logo.jpg)
 
 ---
 
