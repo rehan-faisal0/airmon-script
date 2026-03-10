@@ -6,25 +6,25 @@
 ---
 
 ## 📌 Table of Contents
-- [📋 Introduction](#introduction)
-- [✨ Features](#features)
-- [🛠 Prerequisites](#prerequisites)
-- [📥 Installation ](#installation)
-- [🚀 Usage](#usage)
-- [🔄 Manual Deauthentication](#manual-deauthentication)
-- [❓ Troubleshooting](#troubleshooting)
-- [⚠ Legal and Ethical Considerations](#legal-and-ethical-considerations)
-- [🤝 Contributing](#contributing)
-- [📄 License](#license)
+- [Introduction](#introduction)
+- [Features](#features)
+- [Prerequisites](#prerequisites)
+- [Installation ](#installation)
+- [Usage](#usage)
+- [Manual Deauthentication](#manual-deauthentication)
+- [Troubleshooting](#troubleshooting)
+- [Legal and Ethical Considerations](#legal-and-ethical-considerations)
+- [Contributing](#contributing)
+- [License](#license)
 
 ---
 
-## 📋 Introduction
+## Introduction
 This repository contains a **Bash script** to automate the process of capturing a WPA/WPA2 handshake and cracking the password using **Aircrack-ng**. The script is designed for **Kali Linux** and requires root privileges.
 
 ---
 
-## ✨ Features
+## Features
 - Automatically kills conflicting processes.
 - Enables monitor mode on your wireless interface.
 - Scans for nearby Wi-Fi networks.
@@ -34,7 +34,7 @@ This repository contains a **Bash script** to automate the process of capturing 
 
 ---
 
-## 🛠 Prerequisites
+## Prerequisites
 - **Kali Linux** (or any Linux distribution with Aircrack-ng installed)
 - **Wireless card** supporting monitor mode (e.g., `wlan0`)
 - **Aircrack-ng suite** (`airodump-ng`, `aireplay-ng`, `aircrack-ng`)
@@ -45,7 +45,7 @@ sudo apt update && sudo apt install aircrack-ng
 
 ----------
 
-## 📥 Installation 
+## Installation 
 
 1.  **Clone the repository**:
     
@@ -58,7 +58,7 @@ sudo apt update && sudo apt install aircrack-ng
 
 ----------
 
-## 🚀 Usage
+## Usage
 
 1.  **Run the script**:
     
@@ -74,7 +74,7 @@ sudo apt update && sudo apt install aircrack-ng
 
 ----------
 
-## 🔄 Manual Deauthentication
+## Manual Deauthentication
 
 1.  **Copy the `aireplay-ng` command** printed by the script.
 2.  **Open a new terminal tab** and paste the command:
@@ -85,7 +85,7 @@ sudo apt update && sudo apt install aircrack-ng
 
 ----------
 
-## ❓ Troubleshooting
+## Troubleshooting
 
 Issue
 
@@ -109,7 +109,7 @@ Restart your network interface: `systemctl restart NetworkManager`.
 
 ----------
 
-## ⚠ Legal and Ethical Considerations
+## Legal and Ethical Considerations
 
 -   **Only test networks you own or have explicit permission to test.**
 -   Unauthorized testing is **illegal** and unethical.
@@ -117,7 +117,7 @@ Restart your network interface: `systemctl restart NetworkManager`.
 
 ----------
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Please follow these steps:
 
@@ -129,7 +129,7 @@ Contributions are welcome! Please follow these steps:
 
 ----------
 
-## 📄 License
+## License
 
 This project is licensed under the **MIT License**. See the LICENSE file for details.
 
