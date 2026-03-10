@@ -6,7 +6,7 @@
 ---
 
 ## 📌 Table of Contents
-- [Introduction](#introduction)
+- [📋 Introduction](#introduction)
 - [Features](#features)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
