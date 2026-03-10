@@ -1,5 +1,3 @@
-
-
 # 🔐 Aircrack-ng Automation Script
 **Automate WPA/WPA2 Handshake Capture and Cracking**
 
@@ -21,7 +19,7 @@
 
 ---
 
-## 📋 Introduction
+##📋 Introduction
 This repository contains a **Bash script** to automate the process of capturing a WPA/WPA2 handshake and cracking the password using **Aircrack-ng**. The script is designed for **Kali Linux** and requires root privileges.
 
 ---
