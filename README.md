@@ -8,14 +8,14 @@
 ## 📌 Table of Contents
 - [📋 Introduction](#introduction)
 - [✨ Features](#features)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Manual Deauthentication](#manual-deauthentication)
-- [Troubleshooting](#troubleshooting)
-- [Legal and Ethical Considerations](#legal-and-ethical-considerations)
-- [Contributing](#contributing)
-- [License](#license)
+- [🛠 Prerequisites](#prerequisites)
+- [📥 Installation ](#installation)
+- [🚀 Usage](#usage)
+- [🔄 Manual Deauthentication](#manual-deauthentication)
+- [❓ Troubleshooting](#troubleshooting)
+- [⚠ Legal and Ethical Considerations](#legal-and-ethical-considerations)
+- [🤝 Contributing](#contributing)
+- [📄 License](#license)
 
 ---
 
