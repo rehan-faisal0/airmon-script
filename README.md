@@ -1,7 +1,4 @@
 
-Here’s a comprehensive `README.md` file for your GitHub repository. It includes everything from setup instructions to usage, troubleshooting, and legal notes. You can save this as `README.md` in your repository.
-
-----------
 
 # 🔐 Aircrack-ng Automation Script
 **Automate WPA/WPA2 Handshake Capture and Cracking**
@@ -50,7 +47,7 @@ sudo apt update && sudo apt install aircrack-ng
 
 ----------
 
-## 📥 Installation
+## 📥 Installation 
 
 1.  **Clone the repository**:
     
